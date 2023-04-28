@@ -1,0 +1,170 @@
+{
+    "name": "purpOLED",
+    "version": "1.0",
+    "description": "AMOLED Theme for dark mode with some nice purple accents",
+    "authors": [
+      {
+        "name": "RyanFol#0001",
+        "id": "0B0B0B78910111213"
+      }
+    ],
+    "semanticColors": {
+    
+      "TEXT_NORMAL": [
+        "#FFFFFF",
+        "#FFFFFF"
+      ],
+      "TEXT_MUTED": [
+        "#CBC3E3",
+        "#FFFFFF"
+      ],
+      "INTERACTIVE_NORMAL": [
+        "#CBC3E3",
+        "#FFFFFF"
+      ],
+      "INTERACTIVE_HOVER": [
+        "#CBC3E3",
+        "#FFFFFF"
+      ],
+      "INTERACTIVE_ACTIVE": [
+        "#A020F0",
+        "#FFFFFF"
+      ],
+      "INTERACTIVE_MUTED": [
+        "#CBC3E3",
+        "#FFFFFF"
+      ],
+      "BACKGROUND_PRIMARY": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "BACKGROUND_SECONDARY": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+        "#0B0B0B",
+        "#FFFFFF"
+      ],
+      "BACKGROUND_TERTIARY": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "BACKGROUND_ACCENT": [
+        "#0B0B0B",
+        "#FFFFFF"
+      ],
+      "BACKGROUND_FLOATING": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+        "#0B0B0B",
+        "#FFFFFF"
+      ],
+      "BACKGROUND_NESTED_FLOATING": [
+        "#0B0B0B",
+        "#FFFFFF"
+     
+      ],
+      "BACKGROUND_MENTIONED_HOVER": [
+        "#A020F0",
+        "#FFFFFF"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+        "#A020F0",
+        "#FFFFFF"
+      ],
+      "BACKGROUND_MESSAGE_HIGHLIGHT": [
+        "#A020F0",
+        "#FFFFFF"
+      ],
+     
+      "BACKGROUND_MESSAGE": [
+        "#A020F0",
+        "#FFFFFF"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+        "#000000",
+        "#FFFFFF"
+      ],
+      "SCROLLBAR_THIN_THUMB": [
+        "transparent",
+        "#FFFFFF"
+      ],
+      "SCROLLBAR_THIN_TRACK": [
+        "transparent",
+        "#FFFFFF"
+      ],
+      "SCROLLBAR_AUTO_THUMB": [
+        "transparent",
+        "#FFFFFF"
+      ],
+      "SCROLLBAR_AUTO_TRACK": [
+        "transparent",
+        "#FFFFFF"
+      ],
+      "CHANNELTEXTAREA_BACKGROUND": [
+        "#transparent",
+        "#FFFFFF"
+      ],
+      "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+        "#FFFFFF",
+        "#FFFFFF"
+      ],
+      "CHANNEL_ICON": [
+        "#A020F0",
+        "#FFFFFF"
+      ],
+      "CHANNELS_DEFAULT": [
+        "#E0B0FF",
+        "#FFFFFF"
+      ],
+      "HEADER_SECONDARY": [
+        "#E0B0FF",
+        "#FFFFFF"
+      ],
+      "HEADER_PRIMARY": [
+        "#A020F0",
+        "#FFFFFF"
+      ]
+    },
+    "rawColors": {
+      "PRIMARY_600": "#000000",
+      "PRIMARY_500": "#0B0B0B",
+      "PRIMARY_630": "#A020F0",
+      "PRIMARY_800": "#000000",
+      "BRAND_260": "#A020F0",
+      "BRAND_360": "#A020F0",
+      "BRAND_500": "#A020F0",
+      "WHITE": "#FFFFFF",
+      "RED_260": "#FFFFFF",
+      "GREEN_600": "#FFFFFF",
+      "BRAND_300": "#FFFFFF",
+      "BRAND_330": "#FFFFFF",
+      "BRAND_345": "#FFFFFF",
+      "YELLOW_300": "#9F2B68",
+      "RED_345": "#A020F0",
+      "PRIMARY_400": "#A020F0"
+    },
+    "unsafe_colors": {
+      "CHAT_GREY": "#000000",
+      
+    
+    "color": "#A020F0"
+  },
+   
+    "background": {
+      "url": "https://i.redd.it/d596ve0ibhw21.jpg",
+      "blur": 1,
+      "alpha": 0.5
+  
+    },
+  
+    
+    "spec": 2
+  }
