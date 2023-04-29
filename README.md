@@ -5,3 +5,7 @@ AMOLED Theme for dark mode with purple accents
 
 Vendetta IOS 
 Vendetta Android
+
+# Latest Release 
+
+https://github.com/RyFol/purpOLED/releases/tag/Vendetta
