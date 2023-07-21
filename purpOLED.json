@@ -1,11 +1,11 @@
 {
-    "name": "purpOLED",
+    "name": "viOLED",
     "version": "1.0",
     "description": "AMOLED Theme for dark mode with some nice purple accents",
     "authors": [
       {
-        "name": "RyanFol#0001",
-        "id": "0B0B0B78910111213"
+        "name": "allan",
+        "id": "tbh idk"
       }
     ],
     "semanticColors": {
@@ -159,7 +159,7 @@
   },
    
     "background": {
-      "url": "https://github.com/allan03/purpOLED/blob/main/b.png",
+      "url": "https://github.com/allan03/purpOLED/raw/main/b.png",
       "blur": 1,
       "alpha": 0.5
   
